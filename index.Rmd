@@ -1,0 +1,37 @@
+---
+title: "Da-Yea Song"
+image: "Photo_DaYea.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/da-yea-song-b42870155/"
+  - label: GitHub
+    url: "https://github.com/dayeasong"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=eMRHwkkAAAAJ&view_op=list_works&sortby=pubdate"
+  - label: Email
+    url: "mailto:dsong13@jhmi.edu"
+output:
+  postcards::trestles
+---
+ 
+My research focuses on unraveling the complexities of brain development in autism and its developmental trajectories through the integration of genetic, neuroimaging, and behavioral data. I am also dedicated to exploring the interplay between mental and physical health to enhance well-being in individuals and families affected by neurodevelopmental disorders.
+
+## Education 🎓
+
+**<span style="color: teal;">Johns Hopkins Bloomberg School of Public Health</span>** | Baltimore, MD<br>Ph.D. in Mental Health (Expected 2027)
+
+**<span style="color: teal;">University College London</span>**  | London, UK<br>MSc in Advanced Neuroimaging (2021)
+
+**<span style="color: teal;">Johns Hopkins Bloomberg School of Public Health</span>**  | Baltimore, MD<br>MHS in Mental Health (2018)
+
+**<span style="color: teal;">Sogang University</span>**  | Seoul, South Korea<br>BA in Psychology (2017)
+
+## Research Experience 👩🏻‍🔬
+
+**<span style="color: teal;">Seoul National University</span>**  | <em>Dean Appointed Researcher</em> | 2021-2023
+
+**<span style="color: teal;">Seoul National Bundang Hospital</span>**  | <em>Research Staff</em> | 2019-2021
+
+**<span style="color: teal;">Kennedy Krieger Institute</span>**  | <em>Research Assistant</em> | 2018-2019
+
+**<span style="color: teal;">Wendy Klag Center</span>**  | <em>Student Trainee</em> | 2017-2018
