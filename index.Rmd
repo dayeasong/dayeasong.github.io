@@ -2,13 +2,13 @@
 title: "Da-Yea Song"
 image: "Photo_DaYea.jpg"
 links:
-  - label: '`r fontawesome::fa("LinkedIn", fill = "yellow")` LinkedIn'
+  - label: '`r fontawesome::fa("linkedin", fill = "brown")` LinkedIn'
     url: "https://www.linkedin.com/in/da-yea-song-b42870155/"
-  - label: GitHub
+  - label: '`r fontawesome::fa("github", fill = "brown")` Github'
     url: "https://github.com/dayeasong"
-  - label: Google Scholar
+  - label: '`r fontawesome::fa("google", fill = "brown")` Google Scholar'
     url: "https://scholar.google.com/citations?hl=en&user=eMRHwkkAAAAJ&view_op=list_works&sortby=pubdate"
-  - label: Email
+  - label: '`r fontawesome::fa("envelope", fill = "brown")` Mail'
     url: "mailto:dsong13@jhmi.edu"
 output:
   postcards::trestles
