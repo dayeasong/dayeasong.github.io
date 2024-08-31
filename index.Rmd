@@ -2,7 +2,7 @@
 title: "Da-Yea Song"
 image: "Photo_DaYea.jpg"
 links:
-  - label: LinkedIn
+  - label: '`r fontawesome::fa("LinkedIn", fill = "yellow")` LinkedIn'
     url: "https://www.linkedin.com/in/da-yea-song-b42870155/"
   - label: GitHub
     url: "https://github.com/dayeasong"
